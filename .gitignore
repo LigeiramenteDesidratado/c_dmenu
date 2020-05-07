@@ -1,0 +1,8 @@
+*.orig
+*.o
+dmenu
+*.rej
+*.diff
+nohup.out
+config.h
+stest
